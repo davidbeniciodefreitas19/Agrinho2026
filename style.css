@@ -1,1 +1,24 @@
+body{
+    background-color:#ede0ba;
+    color:black;
+    font-family:Arial;
+    margin:20px;
+}
 
+h1{
+    color:rgb(57, 86, 57);
+    font-family:Georgia;
+}
+
+h2{
+    color:rgb(24, 59, 113);
+}
+
+button{
+    background:rgb(30, 50, 30);
+    color:white;
+}
+
+#texto{
+    font-size:16px;
+}
